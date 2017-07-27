@@ -1,2 +1,2 @@
 # fisspy-tutorials
-tutorials for the fisspy
+Tutorials for the FISSPy
